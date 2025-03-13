@@ -1,0 +1,8 @@
+  method_raw rule n_eval bound.Min. bound.1st Qu. bound.Median bound.Mean bound.3rd Qu. bound.Max.
+1         CP best    100      0.443         0.626        0.658      0.658         0.690      0.767
+2       Wald best    100      0.448         0.635        0.668      0.666         0.701      0.768
+3     Wilson best    100      0.448         0.631        0.662      0.661         0.694      0.771
+4         CP  ten    100      0.440         0.607        0.640      0.639         0.672      0.772
+5       MABT  ten    100      0.480         0.640        0.670      0.669         0.699      0.773
+6       Wald  ten    100      0.446         0.621        0.655      0.653         0.689      0.774
+7     Wilson  ten    100      0.446         0.609        0.641      0.640         0.673      0.771

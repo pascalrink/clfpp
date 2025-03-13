@@ -1,0 +1,13 @@
+  transf n_eval covers
+1   ecdf    100 0.9524
+2  pnorm    100 0.9722
+  transf n_eval bound.Min. bound.1st Qu.
+1   ecdf    100      0.544         0.680
+2  pnorm    100      0.545         0.676
+  bound.Median bound.Mean bound.3rd Qu.
+1        0.711      0.708         0.740
+2        0.706      0.704         0.735
+  bound.Max.
+1      0.821
+2      0.819
+[1] 4762   11

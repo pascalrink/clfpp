@@ -1,0 +1,13 @@
+[1] "rf-n400"
+       proposed         default     proposed_id 
+       3730.474        3716.615       31102.000 
+     default_id  proposed_least proposed_strict 
+      31002.000        3191.000        2948.000 
+        same_id 
+        416.000 
+       proposed         default     proposed_id 
+      0.7460948       0.7433229       6.2204000 
+     default_id  proposed_least proposed_strict 
+      6.2004000       0.6382000       0.5896000 
+        same_id 
+      0.0832000 

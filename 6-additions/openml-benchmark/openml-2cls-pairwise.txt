@@ -1,0 +1,20 @@
+                    comp lbtr
+1 mabt > clopper-pearson   31
+2            mabt > wald   17
+3          mabt > wilson   30
+  method abs.diff.Min. abs.diff.1st Qu. abs.diff.Median abs.diff.Mean abs.diff.3rd Qu. abs.diff.Max.
+1     CP     -0.001970         0.001550        0.003360      0.007810         0.007360      0.067200
+2   Wald     -0.012700        -0.001910        0.001640      0.003850         0.004010      0.059000
+3 Wilson     -0.003860         0.000596        0.003000      0.006750         0.006450      0.064800
+  method rel.gain.Min. rel.gain.1st Qu. rel.gain.Median rel.gain.Mean rel.gain.3rd Qu. rel.gain.Max.
+1     CP     -0.002260         0.001770        0.003920      0.009770         0.010000      0.086800
+2   Wald     -0.014200        -0.002060        0.001790      0.004830         0.005710      0.075400
+3 Wilson     -0.004360         0.000699        0.003510      0.008370         0.008550      0.083400
+  method mabt.less.wrong.preds.Min. mabt.less.wrong.preds.1st Qu. mabt.less.wrong.preds.Median
+1     CP                   -0.01560                       0.00732                      0.02300
+2   Wald                   -0.11800                      -0.00920                      0.00548
+3 Wilson                   -0.03320                       0.00342                      0.01670
+  mabt.less.wrong.preds.Mean mabt.less.wrong.preds.3rd Qu. mabt.less.wrong.preds.Max.
+1                    0.04870                       0.04210                    0.29800
+2                    0.02230                       0.02820                    0.27200
+3                    0.04280                       0.03880                    0.29100

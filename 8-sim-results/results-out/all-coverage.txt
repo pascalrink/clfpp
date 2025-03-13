@@ -1,0 +1,50 @@
+[1] 0.9469178
+[1] 0.9530822
+            method n_eval rule
+1             MABT    100   se
+2             MABT    100  ten
+3               CP    100 best
+4             Wald    100 best
+5           Wilson    100 best
+6               CP    100   se
+7             Wald    100   se
+8           Wilson    100   se
+9               CP    100 best
+10            Wald    100 best
+11          Wilson    100 best
+12     CP w/ Sidak    100  ten
+13   Wald w/ Sidak    100  ten
+14 Wilson w/ Sidak    100  ten
+15            MABT    100   se
+      classifier transf coverage
+1          lasso   ecdf   0.9524
+2  random forest   ecdf   0.9532
+3          lasso    N.A   0.9596
+4          lasso    N.A   0.9284
+5          lasso    N.A   0.9534
+6          lasso    N.A   0.9838
+7          lasso    N.A   0.9574
+8          lasso    N.A   0.9828
+9  random forest    N.A   0.9592
+10 random forest    N.A   0.9348
+11 random forest    N.A   0.9512
+12 random forest    N.A   0.9900
+13 random forest    N.A   0.9642
+14 random forest    N.A   0.9908
+15         lasso  pnorm   0.9722
+   method_raw acceptable conservative
+1        MABT       TRUE        FALSE
+2        MABT       TRUE         TRUE
+3          CP       TRUE         TRUE
+4        Wald      FALSE        FALSE
+5      Wilson       TRUE         TRUE
+6          CP       TRUE         TRUE
+7        Wald       TRUE         TRUE
+8      Wilson       TRUE         TRUE
+9          CP       TRUE         TRUE
+10       Wald      FALSE        FALSE
+11     Wilson       TRUE        FALSE
+12         CP       TRUE         TRUE
+13       Wald       TRUE         TRUE
+14     Wilson       TRUE         TRUE
+15       MABT       TRUE         TRUE

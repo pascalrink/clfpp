@@ -1,0 +1,32 @@
+            method n_eval rule
+1             MABT    100   se
+2             MABT    100  ten
+3               CP    100 best
+4             Wald    100 best
+5           Wilson    100 best
+6               CP    100   se
+7             Wald    100   se
+8           Wilson    100   se
+9               CP    100 best
+10            Wald    100 best
+11          Wilson    100 best
+12     CP w/ Sidak    100  ten
+13   Wald w/ Sidak    100  ten
+14 Wilson w/ Sidak    100  ten
+15            MABT    100   se
+      classifier transf tightn
+1          lasso   ecdf  0.074
+2  random forest   ecdf  0.076
+3          lasso    N.A  0.080
+4          lasso    N.A  0.071
+5          lasso    N.A  0.077
+6          lasso    N.A  0.097
+7          lasso    N.A  0.083
+8          lasso    N.A  0.096
+9  random forest    N.A  0.083
+10 random forest    N.A  0.075
+11 random forest    N.A  0.080
+12 random forest    N.A  0.107
+13 random forest    N.A  0.091
+14 random forest    N.A  0.106
+15         lasso  pnorm  0.078

@@ -1,0 +1,14 @@
+                     comparison lbtr
+13       mabt > clopper-pearson 3262
+14 mabt > clopper-pearson_sidak 4766
+15                  mabt > wald 2241
+16            mabt > wald_sidak 4670
+17                mabt > wilson 2790
+18          mabt > wilson_sidak 4766
+                     comparison      lbtr
+13       mabt > clopper-pearson 0.6924220
+14 mabt > clopper-pearson_sidak 1.0000000
+15                  mabt > wald 0.4847502
+16            mabt > wald_sidak 0.9810924
+17                mabt > wilson 0.5956447
+18          mabt > wilson_sidak 1.0000000
